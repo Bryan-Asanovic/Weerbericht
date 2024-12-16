@@ -1,0 +1,136 @@
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\appsettings.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.staticwebassets.runtime.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.exe
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.deps.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.runtimeconfig.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.pdb
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.AssemblyInfoInputs.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.AssemblyInfo.cs
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.csproj.CoreCompileInputs.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.RazorAssemblyInfo.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.RazorAssemblyInfo.cs
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.Weerbericht.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.build.Weerbericht.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weerbericht.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weerbericht.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\bundle\Weerbericht.styles.css
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\projectbundle\Weerbericht.bundle.scp.css
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\refint\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.pdb
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.genruntimeconfig.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\ref\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.csproj.AssemblyReference.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Project\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerberi.8DDA6C75.Up2Date
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\appsettings.json
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.staticwebassets.runtime.json
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.exe
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.deps.json
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.runtimeconfig.json
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.dll
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.pdb
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.csproj.AssemblyReference.cache
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.AssemblyInfoInputs.cache
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.AssemblyInfo.cs
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.csproj.CoreCompileInputs.cache
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.RazorAssemblyInfo.cache
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.RazorAssemblyInfo.cs
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.Weerbericht.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.build.Weerbericht.props
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weerbericht.props
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weerbericht.props
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\bundle\Weerbericht.styles.css
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\projectbundle\Weerbericht.bundle.scp.css
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerberi.8DDA6C75.Up2Date
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.dll
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\refint\Weerbericht.dll
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.pdb
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.genruntimeconfig.cache
+C:\Users\Hugow\OneDrive\Documenten\bit-academy\leerjaar 3\c# OOP Intro met ASP.NET Razor\project 2.0\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\ref\Weerbericht.dll
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\appsettings.json
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\Weerbericht.staticwebassets.runtime.json
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\Weerbericht.exe
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\Weerbericht.deps.json
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\Weerbericht.runtimeconfig.json
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\Weerbericht.dll
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\Weerbericht.pdb
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.csproj.AssemblyReference.cache
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.AssemblyInfoInputs.cache
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.AssemblyInfo.cs
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.csproj.CoreCompileInputs.cache
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.RazorAssemblyInfo.cache
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.RazorAssemblyInfo.cs
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.Weerbericht.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.build.Weerbericht.props
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weerbericht.props
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weerbericht.props
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\scopedcss\bundle\Weerbericht.styles.css
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\scopedcss\projectbundle\Weerbericht.bundle.scp.css
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerberi.8DDA6C75.Up2Date
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.dll
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\refint\Weerbericht.dll
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.pdb
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\Weerbericht.genruntimeconfig.cache
+C:\Users\macic\Downloads\Weerbericht\Weerbericht\obj\Debug\net8.0\ref\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\appsettings.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.staticwebassets.runtime.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.exe
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.deps.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.runtimeconfig.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.pdb
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.csproj.AssemblyReference.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.AssemblyInfoInputs.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.AssemblyInfo.cs
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.csproj.CoreCompileInputs.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.RazorAssemblyInfo.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.RazorAssemblyInfo.cs
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.Weerbericht.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.build.Weerbericht.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weerbericht.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weerbericht.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\bundle\Weerbericht.styles.css
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\scopedcss\projectbundle\Weerbericht.bundle.scp.css
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerberi.8DDA6C75.Up2Date
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\refint\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.pdb
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\Weerbericht.genruntimeconfig.cache
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\ref\Weerbericht.dll
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\bin\Debug\net8.0\Weerbericht.staticwebassets.endpoints.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets\msbuild.Weerbericht.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\macic\Desktop\bit-academy\C# Project\Eindproject\Introductie-cfc9585323bf-526d7c72acd8\Weerbericht\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

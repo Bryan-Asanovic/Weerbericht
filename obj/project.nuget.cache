@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "esgE0hrXh9M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macic\\Desktop\\GitHub\\Weerbericht\\Weerbericht.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macic\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

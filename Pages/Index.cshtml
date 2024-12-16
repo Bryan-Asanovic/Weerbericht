@@ -1,0 +1,205 @@
+﻿@page
+@model Weerbericht.Pages.IndexModel
+@{
+    ViewData["Title"] = "Weerbericht";
+    DateTime currentDate = DateTime.Now;
+    int currentWeatherCode = ParseInt(Model.WeatherData?.Daily?.Weathercode?[0]);
+    int currentWindSpeedKmh = (int)(Model.WeatherData?.Daily?.MaxWindSpeeds?[0] ?? 0);
+    int currentBeaufortNumber = CalculateBeaufortNumber(currentWindSpeedKmh);
+    double currentWindDirection = Model.WeatherData?.Daily?.WindDirection?[0] ?? 0;
+    double currentMinTemperature = Model.WeatherData?.Daily?.MinTemperatures?[0] ?? 0;
+    double currentMaxTemperature = Model.WeatherData?.Daily?.MaxTemperatures?[0] ?? 0;
+    double currentShowerSums = Model.WeatherData?.Daily?.ShowerSums?[0] ?? 0;
+}
+
+<h1 class="Weer-agrond d-flex justify-content-center text-dark p-3">Weerbericht @currentDate.ToString("dddd dd MMMM")</h1>
+<div class="weather-style d-flex justify-content-between align-items-start container-fluid">
+    <div class="weather-info text-dark">
+        <p>Het is vandaag @GetWeatherDescription(currentWeatherCode) bij een @CalculateBeaufortDescription(currentBeaufortNumber) vanuit het @GetWindDirectionDescription(currentWindDirection).</p>
+        <p>Het wordt<span class="text-primary"> minimaal</span> @currentMinTemperature graden en <span class="text-danger">maximaal</span> @currentMaxTemperature graden.</p>
+        <p>De verwachte neerslag van vandaag is: @currentShowerSums mm.</p>
+    </div>
+    <div class="buienradar">
+        <iframe src="https://gadgets.buienradar.nl/gadget/zoommap/?lat=52.755&lng=5.96528&overname=2&zoom=6&naam=nederland&size=2&voor=0" scrolling="no" width="256" height="256" frameborder="no"></iframe>
+    </div>
+</div>
+
+@if (Model.WeatherData != null && Model.WeatherData.Daily != null)
+{
+    <div class="row">
+        @for (int i = 0; i < Model.WeatherData.Daily.Time.Count; i++)
+        {
+            DateTime date = DateTime.Parse(Model.WeatherData.Daily.Time[i]);
+            int windSpeedKmh = (int)Model.WeatherData.Daily.MaxWindSpeeds[i];
+            int weatherCode = 0;
+            if (!string.IsNullOrEmpty(Model.WeatherData.Daily.Weathercode[i]))
+            {
+                int.TryParse(Model.WeatherData.Daily.Weathercode[i], out weatherCode);
+            }
+            int beaufortNumber = CalculateBeaufortNumber(windSpeedKmh);
+            double windDirection = Model.WeatherData.Daily.WindDirection[i];
+            double chanceOfRain = Model.WeatherData.Daily.GetChanceOfRain(i);
+
+            <div class="container col-2 mb-3">
+                <div class="card container-fluid">
+                    <div class="card-body">
+                        <h4 class="card-title">@date.ToString("dddd")</h4>
+                        <p class="card-text"><strong>@date.ToString("dd-MM-yyyy")</strong></p>
+                        <img src="~/images/@GetWeatherImage(weatherCode)" class="weather-image" alt="@GetWeatherDescription(weatherCode)">
+                        <p class="card-text">@Model.WeatherData.Daily.MaxTemperatures[i]°C / @Model.WeatherData.Daily.MinTemperatures[i]°C</p>
+
+                        @* Toon sneeuwval alleen als het niet nul is *@
+                        @{
+                            double snowfallSum = Model.WeatherData.Daily.SnowfallSums[i];
+                        }
+                        @if (snowfallSum > 0)
+                        {
+                            <p class="card-text">Sneeuwval: @snowfallSum mm</p>
+                        }
+
+                        <p class="card-text">Windsnelheid: @CalculateBeaufortNumber(windSpeedKmh)</p>
+
+                        <p class="card-text">Kans op regen: @chanceOfRain.ToString("0.##")%</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>Er is een fout opgetreden bij het ophalen van de weergegevens.</p>
+}
+
+@functions {
+    int CalculateBeaufortNumber(int windSpeedKmh)
+    {
+        if (windSpeedKmh <= 1) return 0;
+        else if (windSpeedKmh <= 5) return 1;
+        else if (windSpeedKmh <= 11) return 2;
+        else if (windSpeedKmh <= 19) return 3;
+        else if (windSpeedKmh <= 28) return 4;
+        else if (windSpeedKmh <= 38) return 5;
+        else if (windSpeedKmh <= 49) return 6;
+        else if (windSpeedKmh <= 61) return 7;
+        else if (windSpeedKmh <= 74) return 8;
+        else if (windSpeedKmh <= 88) return 9;
+        else if (windSpeedKmh <= 102) return 10;
+        else if (windSpeedKmh <= 117) return 11;
+        else return 12;
+    }
+
+    string CalculateBeaufortDescription(int beaufortNumber)
+    {
+        switch (beaufortNumber)
+        {
+            case 0: return "Windstil";
+            case 1:
+            case 2: return "Zwakke wind";
+            case 3:
+            case 4: return "Matige wind";
+            case 5: return "Vrij krachtige wind";
+            case 6: return "Krachtige wind";
+            case 7: return "Harde wind";
+            case 8: return "Stormachtige wind";
+            case 9: return "Storm";
+            case 10: return "Zware storm";
+            case 11: return "Zeer zware storm";
+            case 12: return "Orkaan";
+            default: return "Onbekend";
+        }
+    }
+
+    string GetWeatherDescription(int weatherCode)
+    {
+        switch (weatherCode)
+        {
+            case 0: return "zonnig";
+            case 1: return "Meestal helder";
+            case 2: return "gedeeltelijk bewolkt";
+            case 3: return "betrokken";
+            case 45: return "Mist";
+            case 48: return "rijpvorming";
+            case 51: return "Lichtelijk aan het motregenen";
+            case 53: return "Matig aan het motregenen";
+            case 55: return "Zwaar aan het motregenen";
+            case 56: return "Lichtelijk aan het ijzelen";
+            case 57: return "Zwaar aan het ijzelen";
+            case 61: return "Lichtelijk aan het regenen";
+            case 63: return "Matig aan het regenen";
+            case 65: return "Zwaar aan het regenen";
+            case 66: return "Lichtelijk aan het ijzelregenen";
+            case 67: return "Zwaar aan het ijzelregenen";
+            case 71: return "Lichtelijk aan het sneeuwen";
+            case 73: return "Matig aan het sneeuwen";
+            case 75: return "Zwaar aan het sneeuwen";
+            case 77: return "Korrelsneeuw";
+            case 80: return "Lichte regenbuien";
+            case 81: return "Matige regenbuien";
+            case 82: return "Hevige regenbuien";
+            case 85: return "Lichte sneeuwbuien";
+            case 86: return "Zware sneeuwbuien";
+            case 95: return "Lichte onweersbuien";
+            case 96: return "Matige onweersbuien";
+            case 99: return "Onweersbui met lichte en zware hagel";
+            default: return "Onbekend";
+        }
+    }
+
+    string GetWindDirectionDescription(double degrees)
+    {
+        if (degrees >= 0 && degrees <= 22.5) return "Noorden";
+        else if (degrees > 22.5 && degrees <= 67.5) return "Noordoosten";
+        else if (degrees > 67.5 && degrees <= 112.5) return "Oosten";
+        else if (degrees > 112.5 && degrees <= 157.5) return "Zuidoosten";
+        else if (degrees > 157.5 && degrees <= 202.5) return "Zuiden";
+        else if (degrees > 202.5 && degrees <= 247.5) return "Zuidwesten";
+        else if (degrees > 247.5 && degrees <= 292.5) return "Westen";
+        else if (degrees > 292.5 && degrees <= 337.5) return "Noordwesten";
+        else if (degrees > 337.5 && degrees <= 360) return "Noorden";
+        else return "Onbekend";
+    }
+
+    int ParseInt(string value)
+    {
+        int result;
+        int.TryParse(value, out result);
+        return result;
+    }
+
+    string GetWeatherImage(int weatherCode)
+    {
+        switch (weatherCode)
+        {
+            case 0: return "sunny.png";
+            case 1: return "sunny.png"; // Assuming 'Meestal helder' is also sunny
+            case 2: return "partly_clouded.png";
+            case 3: return "clouded.png";
+            case 45: return "clouded.png"; // Mist
+            case 48: return "clouded.png"; // Rijpvorming
+            case 51:
+            case 53:
+            case 55:
+            case 56:
+            case 57:
+            case 61:
+            case 63:
+            case 65:
+            case 66:
+            case 67: return "raining.png"; // Various forms of rain
+            case 71:
+            case 73:
+            case 75:
+            case 77:
+            case 80:
+            case 81:
+            case 82: return "raining.png"; // Various forms of snow
+            case 85:
+            case 86: return "raining.png"; // Various forms of snow showers
+            case 95:
+            case 96:
+            case 99: return "storm.png"; // Thunderstorms and hail
+            default: return "unknown.png"; // Default image for unknown weather codes
+        }
+    }
+}
